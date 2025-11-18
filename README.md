@@ -137,27 +137,86 @@ We believe this product can transform the gaming experience. Each user gets:
 
 ### SukaMabar.id vs. Competitors
 
-| Feature | Discord | Gaming Forums | In-Game Chat | **SukaMabar.id** |
-|---------|---------|---------------|--------------|------------------|
-| **Dedicated Matchmaking** | ❌ | ❌ | ❌ | ✅ |
-| **Skill-based Matching** | ❌ | ❌ | ❌ | ✅ |
-| **Indonesian Focus** | ❌ | ⚠️ | ❌ | ✅ |
-| **Rating System** | ❌ | ❌ | ❌ | ✅ |
-| **Real-time Chat** | ✅ | ❌ | ⚠️ | ✅ |
-| **User Verification** | ⚠️ | ❌ | ❌ | ✅ |
-| **Match History** | ❌ | ❌ | ❌ | ✅ |
-| **Mobile Optimized** | ⚠️ | ❌ | ✅ | ✅ |
-| **Achievement System** | ⚠️ | ❌ | ❌ | ✅ |
-| **Friend Management** | ✅ | ❌ | ⚠️ | ✅ |
+| Feature | **Lita.gg** | Discord | Gaming Forums | **SukaMabar.id** |
+|---------|-------------|---------|---------------|------------------|
+| **Business Model** | 💰 Paid service | Free | Free | 🆓 Free + Premium |
+| **Type** | Companion hire | Social | Community | Peer matching |
+| **Dedicated Matchmaking** | ⚠️ Manual | ❌ | ❌ | ✅ Automated |
+| **Skill-based Matching** | ❌ | ❌ | ❌ | ✅ Smart algorithm |
+| **Indonesian Focus** | ✅ | ❌ | ⚠️ | ✅ |
+| **Cost per Match** | 💰 Paid | Free | Free | 🆓 Free |
+| **Equal Partnership** | ❌ Transactional | ⚠️ | ✅ | ✅ Community-based |
+| **Rating System** | ✅ | ❌ | ❌ | ✅ |
+| **Real-time Chat** | ✅ | ✅ | ❌ | ✅ |
+| **User Verification** | ✅ | ⚠️ | ❌ | ✅ Google OAuth |
+| **Match History** | ⚠️ | ❌ | ❌ | ✅ Comprehensive |
+| **Mobile App** | ✅ | ⚠️ | ❌ | ✅ (Planned Q2) |
+| **Achievement System** | ❌ | ⚠️ | ❌ | ✅ Gamified |
+| **Friend Management** | ⚠️ | ✅ | ❌ | ✅ |
 | **Statistics Tracking** | ❌ | ❌ | ❌ | ✅ |
+| **Target User** | Paying customers | General | Casual | All gamers |
 
-### Our Competitive Advantages:
+### Direct Competitor Analysis: Lita.gg
 
-1. **First-Mover Advantage**: No dedicated gaming matchmaking platform in Indonesia
-2. **Local Understanding**: Built by Indonesian gamers for Indonesian gamers
-3. **Complete Solution**: All-in-one platform vs. fragmented solutions
-4. **Trust System**: Comprehensive rating and review system
-5. **Technology Edge**: Modern, fast, and scalable architecture
+**Lita.gg** ([lita.gg](https://www.lita.gg/id/)) is currently the main competitor in Indonesia:
+
+**What They Do:**
+- Paid gaming companion service ("jasa teman mabar")
+- Users pay to play with "pro players" or attractive companions
+- Marketplace model where players sell their time
+- Top-up services integration
+
+**Their Limitations:**
+- 💰 **Pay-per-match model** - expensive for regular gamers (Rp 10,000-100,000/match)
+- ⚠️ **Transactional relationship** - not building genuine friendships
+- 🎯 **Focus on "pro players"** - intimidating for casual gamers
+- 📊 **No skill matching** - you pay, not always get compatible partners
+- 💸 **Revenue-focused** - prioritizes monetization over community
+
+### How SukaMabar.id is Different and Better:
+
+1. **Free & Community-First** 🆓
+   - Core matchmaking is completely free
+   - Build real friendships, not transactional relationships
+   - Optional premium for power users only
+
+2. **Smart Algorithm vs. Manual Search** 🤖
+   - Unlike Lita's manual browsing, we match you automatically
+   - Based on skill, playing style, availability, and preferences
+   - Find partners in 30 seconds, not 10+ minutes
+
+3. **Equal Partnership Model** 🤝
+   - Unlike Lita's employer-employee dynamic
+   - We connect peers who want to play together
+   - No payment pressure, pure gaming enjoyment
+
+4. **Inclusive for All Gamers** 👥
+   - Lita focuses on "pro players" and paying customers
+   - We welcome casual, intermediate, and pro players
+   - Everyone deserves good gaming partners
+
+5. **Technology-Driven** 💻
+   - Modern tech stack with real-time features
+   - Comprehensive statistics and achievement system
+   - Scalable architecture for millions of users
+
+6. **Sustainable Business Model** 📈
+   - Freemium > Pay-per-match
+   - Lower barrier to entry = larger user base
+   - Better unit economics and scalability
+
+### Market Positioning:
+
+**Lita.gg** = "Uber for Gaming Companions" (Paid service marketplace)  
+**SukaMabar.id** = "Tinder for Gamers" (Free peer-to-peer matchmaking)
+
+### Why We'll Win:
+
+1. **Larger addressable market**: 100M gamers vs. Lita's niche paying customers
+2. **Network effects**: More free users = better matches = more users (viral loop)
+3. **Better unit economics**: Subscription model > transaction fees
+4. **Stronger community**: Genuine friendships > paid relationships
+5. **Technology moat**: Proprietary matching algorithm vs. simple marketplace
 
 ---
 
